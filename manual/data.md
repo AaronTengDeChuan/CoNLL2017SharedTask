@@ -14,13 +14,13 @@
 ```cpp
 - ud-treebanks-conll2017
 	- UD_Ancient_Greek(数据集名称)
-    	- grc-ud-train.conllu （conllu 格式训练数据）
-        - grc-ud-train.txt    （训练数据的文本格式）
-        - grc-ud-dev.conllu   （conllu 格式开发集数据）
-        - grc-ud-dev.txt      （开发集数据的文本格式）
-        - README.txt          （数据来源说明、日志等）
-        - LICENSE.txt
-        - stats.xml
+		- grc-ud-train.conllu （conllu 格式训练数据）
+    	- grc-ud-train.txt    （训练数据的文本格式）
+    	- grc-ud-dev.conllu   （conllu 格式开发集数据）
+    	- grc-ud-dev.txt      （开发集数据的文本格式）
+    	- README.txt          （数据来源说明、日志等）
+    	- LICENSE.txt
+    	- stats.xml
 	+ UD_Ancient_Greek-PROIEL
 	+ UD_Arabic
 	...
